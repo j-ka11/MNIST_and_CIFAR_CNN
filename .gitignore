@@ -1,0 +1,8 @@
+Lab4*
+hw*
+
+tensor_tutorial.ipynb
+
+.ipynb_checkpoints/
+
+cifar_net.pth
