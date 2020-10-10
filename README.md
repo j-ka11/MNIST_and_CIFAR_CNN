@@ -1,4 +1,4 @@
-# How to use the scripts for questions 5 and 6
+# How to use the scripts
 The script titled `cnn_training_loops.ipynb` contains the training loops we used to train both the
 MNIST model and the CIFAR model. 
 
